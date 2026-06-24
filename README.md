@@ -21,5 +21,37 @@ This project predicts house prices using Machine Learning based on features such
 - `summary.pdf` – Project summary
 - `charts/` – Visualization images
 
-### 👩‍💻 Author
+# 📊 XYlofy AI Internship Project – Week 2
+
+# Employee Attrition Prediction using Machine Learning
+
+## 📌 Project Overview
+This project predicts whether an employee is likely to leave the company using Machine Learning. It helps HR identify attrition risks and improve employee retention.
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## 🤖 Models Used
+- Logistic Regression
+- Random Forest
+- Gradient Boosting
+
+## 📊 Evaluation Metrics
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC
+- Confusion Matrix
+
+## ✅ Outcome
+The best-performing model predicts employee attrition and identifies key factors affecting employee retention.
+
+## 👩‍💻 Author
 **Tanvi Vinod Markad**
